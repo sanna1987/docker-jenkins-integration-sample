@@ -8,7 +8,7 @@ public class DockerJenkinsIntegrationSampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DockerJenkinsIntegrationSampleApplication.class, args);
-        System.out.println("Hello, Docker and Jenkins!");
+        System.out.println("Hello, Docker and Jenkins");
     }
 
 }
