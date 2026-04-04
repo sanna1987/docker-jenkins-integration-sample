@@ -1,0 +1,13 @@
+package com.anna.dockerjenkinsintegrationsample;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DockerJenkinsIntegrationSampleApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
